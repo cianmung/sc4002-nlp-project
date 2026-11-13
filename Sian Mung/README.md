@@ -29,7 +29,7 @@
 
 ## Load saved models
 
-1. Put these files in `final_M1_M2_M3_outputs/`:
+1. Put these files in `final_M1_M2_M3_outputs_corrected/`:
    - `M1_best.pt`
    - `M2_best.pt`
    - `M3_best.pt`
